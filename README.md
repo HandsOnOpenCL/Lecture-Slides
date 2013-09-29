@@ -9,8 +9,9 @@ PowerPoint slides don't behave well in git and so this respository doesn't conta
 Introduction
 ============
 
-This set of freely available OpenCL lecture material has
-been created by Simon McIntosh-Smith and Tom Deakin from the
+This set of freely available OpenCL lecture material, together with the
+[HandsOnOpenCL exercises and solutions](https://github.com/HandsOnOpenCL/Exercises-Solutions)
+have been created by Simon McIntosh-Smith and Tom Deakin from the
 University of Bristol in the UK, with financial support from the
 Khronos Initiative for Training and Education ([KITE](http://kite.khronos.org/en/opencl))
 to promote the use of open standards. 
