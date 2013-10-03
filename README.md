@@ -1,13 +1,9 @@
-Issue Tracking for the Lecture Slides
-=====================================
-
-Please file a new [Issue](https://github.com/HandsOnOpenCL/Lecture-Slides/issues) if you have found any bugs or have any comments about the lecture slides.
-
-PowerPoint slides don't behave well in git and so this respository doesn't contain the slides themselves, except for the specific versions we release (find these as under 
-["Releases"](https://github.com/HandsOnOpenCL/Lecture-Slides/releases)).
-
 Introduction
 ============
+
+(PowerPoint slides don't behave well in git and so this repository only contains
+the specific versions that we release. You can find these under 
+["Releases"](https://github.com/HandsOnOpenCL/Lecture-Slides/releases)).
 
 This set of freely available OpenCL lecture material, together with the
 [HandsOnOpenCL exercises and solutions](https://github.com/HandsOnOpenCL/Exercises-Solutions)
@@ -33,3 +29,9 @@ License
 -------
 
 These slides together with the [HandsOnOpenCL example and solutions](https://github.com/HandsOnOpenCL/Exercises-Solutions) are released under the ["attribution CC BY" creative commons license](http://creativecommons.org/licenses/by/3.0/). In other words, you can use these in any way you see fit, including commercially, but please retain an attribution for the original authors, Simon McIntosh-Smith and Tom Deakin.
+
+Issue Tracking for the Lecture Slides
+-------------------------------------
+
+Please file a new [Issue](https://github.com/HandsOnOpenCL/Lecture-Slides/issues) if you have found any bugs or have any comments about the lecture slides.
+
