@@ -33,5 +33,5 @@ These slides together with the [HandsOnOpenCL example and solutions](https://git
 Issue Tracking for the Lecture Slides
 -------------------------------------
 
-Please file a new [Issue](https://github.com/HandsOnOpenCL/Lecture-Slides/issues) if you have found any bugs or have any comments about the lecture slides.
+Please file a new [Issue](https://github.com/HandsOnOpenCL/Lecture-Slides/issues) if you have found a bug, would like to request an enhancement, or have any other comments about the lecture slides.
 
